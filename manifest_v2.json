@@ -1,0 +1,44 @@
+{
+  "item": {
+    "id": "com.tianlangxing.homework",
+    "restype": "quick_app",
+    "name": "作业写了吗",
+    "description": "作业又没记全？别翻群聊了。把清单粘进手机，直接同步到手表，抬手就知道还差几项。\n作业一多就记不住，写完了还总怕漏？把老师发的清单粘进手机，一键同步到小米手环。抬手就能看还剩几项，写完点一下打勾，完成的自动沉到最下面，点错了还能取消。少掏手机，少漏作业。",
+    "preview": [
+      "media/1000040116.png",
+      "media/1000040119.png",
+      "media/1000040117.png",
+      "media/1000040118.png"
+    ],
+    "icon": "media/1000040074.png",
+    "cover": "media/1000040114.png",
+    "author": [
+      {
+        "name": "2939605019",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "作业同步器",
+      "url": "https://tlx.wangmoxuan.eu.cc/s/eyJrIjoic2hhcmUiLCJpZCI6ImZtd3FqOG55OWc3MmdsaiIsImV4cCI6NDEwMjQxNjAwMDAwMCwiY2giOiIifQ.wGd019HCBozj70zJn-3bAPM61vPKuBAmXV3fYIaWDMw",
+      "icon": "cloud-arrow-down"
+    }
+  ],
+  "downloads": {
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/作业写了吗_手表端_最终版(7).rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/作业写了吗_手表端_最终版(7).rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
